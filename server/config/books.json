@@ -1,0 +1,50 @@
+{
+    "books": [
+      {
+        "id": 1,
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "genre": "Classic",
+        "price": 10.99,
+        "coverImage": "path/to/great_gatsby.jpg",
+        "description": "A novel about the decadent excess and the American Dream."
+      },
+      {
+        "id": 2,
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "genre": "Classic",
+        "price": 12.99,
+        "coverImage": "path/to/to_kill_a_mockingbird.jpg",
+        "description": "A story of racial injustice and moral growth in the American South."
+      },
+      {
+        "id": 3,
+        "title": "Harry Potter and the Sorcerer's Stone",
+        "author": "J.K. Rowling",
+        "genre": "Fantasy",
+        "price": 15.99,
+        "coverImage": "path/to/harry_potter.jpg",
+        "description": "The beginning of a young wizard's journey in a magical world."
+      },
+      {
+        "id": 4,
+        "title": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "genre": "Fantasy",
+        "price": 11.99,
+        "coverImage": "path/to/the_hobbit.jpg",
+        "description": "An adventure of a hobbit in a world of dragons and dwarves."
+      },
+      {
+        "id": 5,
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "genre": "Romance",
+        "price": 9.99,
+        "coverImage": "path/to/pride_and_prejudice.jpg",
+        "description": "A story of love and social class in Regency-era England."
+      }
+      
+    ]
+  }
